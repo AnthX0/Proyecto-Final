@@ -35,10 +35,11 @@ public class Principal {
 //        System.out.println("Teclee su opción: ");
 //        opc=tec.nextInt();
 //        
-        System.out.println("-------------------------------------------------------------------------");
-        System.out.println("|        |        |        |        |        |        |        |        |");
-        System.out.println("|        |        |        |        |        |        |        |        |");
-        System.out.println("-------------------------------------------------------------------------");
+        System.out.println("-------------------------------------------------------------------------------------------");
+        System.out.println("|        |        |        |        |        |        |        |        |        |        |");
+        
+        System.out.println("|        |        |        |        |        |        |        |        |        |        |");
+        System.out.println("-------------------------------------------------------------------------------------------");
 //        
 //        switch(opc){
 //            case 1: System.out.println("¿Desea registrar un auto? s/n");
